@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Nonarkara studio clusters  public, private, archive</title>
+  <desc id="desc">Hand-drawn map of Dr Non's GitHub studio: origin, SLIC, control towers, FloodDash gift vs system, Bangkok atlas, method blueprints, Axiom, writing. Private nodes named at purpose level only.</desc>
+  <rect width="1200" height="760" fill="#F4EFE6"/>
+  <rect x="24" y="24" width="1152" height="712" fill="none" stroke="#1C1917" stroke-width="1.5"/>
+  <text x="48" y="64" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#1C1917">*94B- Nonarkara · studio clusters</text>
+  <text x="48" y="88" font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#5C574F">Public API snapshot 2026-08-31 · private names from the commissioning map only · no internals</text>
+
+  <!-- Origin -->
+  <rect x="48" y="112" width="260" height="150" fill="#E8DFD0" stroke="#1C1917" stroke-width="1"/>
+  <text x="64" y="138" font-family="Georgia, serif" font-size="14" fill="#0F5C56">1 · 83@4 / origin</text>
+  <text x="64" y="164" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">city-reporter-bot  · private</text>
+  <text x="64" y="182" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">city-reporter-v2  · private</text>
+  <text x="64" y="200" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">city-reporter-line-bot  · private</text>
+  <text x="64" y="228" font-family="Georgia, serif" font-size="11" fill="#5C574F">Account created 2024-10-18</text>
+  <text x="64" y="244" font-family="Georgia, serif" font-size="11" fill="#5C574F">to host a city-reporter bot</text>
+
+  <!-- SLIC -->
+  <rect x="328" y="112" width="280" height="150" fill="#FFFFFF" stroke="#1C1917" stroke-width="1"/>
+  <text x="344" y="138" font-family="Georgia, serif" font-size="14" fill="#0F5C56">2 · SLIC · the ranking that disagrees</text>
+  <text x="344" y="164" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">SLIC-Index V3  · live</text>
+  <text x="344" y="182" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#8A847A">V1 / V2 / V2.5 / recovered / landing</text>
+  <text x="344" y="200" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#8A847A">archived 2026-08-31 evening ICT</text>
+  <text x="344" y="228" font-family="Georgia, serif" font-size="11" fill="#5C574F">nonarkara.github.io/SLIC-Index</text>
+  <text x="344" y="244" font-family="Georgia, serif" font-size="11" fill="#5C574F">no black box on scores</text>
+
+  <!-- Towers -->
+  <rect x="628" y="112" width="524" height="150" fill="#FFFFFF" stroke="#1C1917" stroke-width="1"/>
+  <text x="644" y="138" font-family="Georgia, serif" font-size="14" fill="#0F5C56">3 · Control towers · fork a city</text>
+  <text x="644" y="164" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">nst-control-tower · city-hub · phuket · kuching-ioc · airdash  · public</text>
+  <text x="644" y="190" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">chula · yala · kmitl · praram9 · lopburi · sikhio · chonburi  · private</text>
+  <text x="644" y="216" font-family="Georgia, serif" font-size="11" fill="#5C574F">Shared grammar: React + deck.gl + Hono + Cloudflare</text>
+  <text x="644" y="240" font-family="Georgia, serif" font-size="11" fill="#5C574F">Purpose-level names only for private towers  no source</text>
+
+  <!-- FloodDash -->
+  <rect x="48" y="282" width="360" height="150" fill="#FFFFFF" stroke="#C45C26" stroke-width="1.5"/>
+  <text x="64" y="308" font-family="Georgia, serif" font-size="14" fill="#C45C26">4 · FloodDash · gift vs system</text>
+  <text x="64" y="334" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">FloodDash-Blueprint  · public invitation</text>
+  <text x="64" y="352" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">FloodDash  · private 24/7 Thailand system</text>
+  <text x="64" y="378" font-family="Georgia, serif" font-size="11" fill="#5C574F">Live: flood.nonarkara.org</text>
+  <text x="64" y="396" font-family="Georgia, serif" font-size="11" fill="#5C574F">One Mac. Blueprint is the gift.</text>
+  <text x="64" y="414" font-family="Georgia, serif" font-size="11" fill="#5C574F">Do not confuse the two repositories.</text>
+
+  <!-- Atlas -->
+  <rect x="428" y="282" width="360" height="150" fill="#FFFFFF" stroke="#1C1917" stroke-width="1"/>
+  <text x="444" y="308" font-family="Georgia, serif" font-size="14" fill="#0F5C56">5 · Bangkok atlas / BKKx</text>
+  <text x="444" y="334" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">BKKx  · public · bkk.nonarkara.org</text>
+  <text x="444" y="352" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">BKKxCulture  · public · heritage half</text>
+  <text x="444" y="370" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">bkk-3d-atlas  · private operational twin</text>
+  <text x="444" y="396" font-family="Georgia, serif" font-size="11" fill="#5C574F">atlas.nonarkara.org named on the public</text>
+  <text x="444" y="414" font-family="Georgia, serif" font-size="11" fill="#5C574F">BKKxCulture description  purpose only</text>
+
+  <!-- Method -->
+  <rect x="808" y="282" width="344" height="150" fill="#E8DFD0" stroke="#1C1917" stroke-width="1"/>
+  <text x="824" y="308" font-family="Georgia, serif" font-size="14" fill="#0F5C56">6 · Method · public blueprints</text>
+  <text x="824" y="334" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">live-coding-bible</text>
+  <text x="824" y="352" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">dr-non-vibecoding-skills</text>
+  <text x="824" y="370" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">DrNon-Global-Satellite-Toolkit</text>
+  <text x="824" y="388" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">FloodDash-Blueprint · SLIC-Index</text>
+  <text x="824" y="414" font-family="Georgia, serif" font-size="11" fill="#5C574F">Fork these to reconstruct the method</text>
+
+  <!-- Axiom -->
+  <rect x="48" y="452" width="360" height="150" fill="#FFFFFF" stroke="#1C1917" stroke-width="1"/>
+  <text x="64" y="478" font-family="Georgia, serif" font-size="14" fill="#0F5C56">7 · Axiom / studio OS</text>
+  <text x="64" y="504" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">Axiom · each · ikigai-finance  · public</text>
+  <text x="64" y="522" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">ikigai-dashboard · axiom-ops  · private</text>
+  <text x="64" y="540" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">second-brain-vault · rag-nonarkara</text>
+  <text x="64" y="566" font-family="Georgia, serif" font-size="11" fill="#5C574F">Axiom Thailand LLC · Bangkok</text>
+  <text x="64" y="584" font-family="Georgia, serif" font-size="11" fill="#5C574F">each.nonarkara.org · nonarkara.org</text>
+
+  <!-- Writing -->
+  <rect x="428" y="452" width="360" height="150" fill="#FFFFFF" stroke="#1C1917" stroke-width="1"/>
+  <text x="444" y="478" font-family="Georgia, serif" font-size="14" fill="#0F5C56">8 · Writing / press / voice</text>
+  <text x="444" y="504" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">100-days-of-solitude · 100daysofnon</text>
+  <text x="444" y="522" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">slowdown · ninja-innovation · mean</text>
+  <text x="444" y="540" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">Non-Cast  · created 2026-08-31</text>
+  <text x="444" y="566" font-family="Georgia, serif" font-size="11" fill="#5C574F">locating-shanghai · private monograph</text>
+  <text x="444" y="584" font-family="Georgia, serif" font-size="11" fill="#5C574F">Landing-page experiments · archived</text>
+
+  <!-- Legend -->
+  <rect x="808" y="452" width="344" height="150" fill="#E8DFD0" stroke="#1C1917" stroke-width="1"/>
+  <text x="824" y="478" font-family="Georgia, serif" font-size="14" fill="#0F5C56">Legend / 3-42"</text>
+  <rect x="824" y="498" width="14" height="14" fill="#FFFFFF" stroke="#1C1917"/>
+  <text x="848" y="510" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">public  fork, read, rebuild</text>
+  <rect x="824" y="522" width="14" height="14" fill="#E8DFD0" stroke="#1C1917"/>
+  <text x="848" y="534" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#1C1917">private  name + purpose only</text>
+  <text x="848" y="558" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#8A847A">grey labels = archived 2026-08-31</text>
+  <text x="824" y="584" font-family="Georgia, serif" font-size="11" fill="#5C574F">~122 repos before this history repo</text>
+
+  <text x="48" y="638" font-family="Georgia, serif" font-size="13" fill="#1C1917">2-#2"2@!7- *9H*94B-*22#0 · from a city-reporter bot to an open civic studio</text>
+  <text x="48" y="662" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12" fill="#5C574F">github.com/Nonarkara  ·  nonarkara.org  ·  this drawing is an artifact of zero-to-one, not a screenshot of any product</text>
+  <line x1="48" y1="684" x2="1152" y2="684" stroke="#1C1917" stroke-width="0.75"/>
+  <text x="48" y="710" font-family="Georgia, serif" font-size="11" fill="#8A847A">MIT · no client PII · no keys · no private source  ·  10 public repos archived the evening this history was commissioned</text>
+</svg>

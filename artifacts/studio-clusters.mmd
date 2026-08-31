@@ -1,0 +1,25 @@
+%% Public reconstruction kit vs private twins.
+%% Private nodes: name + purpose only.
+flowchart TB
+  subgraph kit["Fork these — public kit"]
+    BP["FloodDash-Blueprint\nideas, not source"]
+    SAT["DrNon-Global-Satellite-Toolkit\nclone → geography → deploy"]
+    SLIC["SLIC-Index V3\nno black box"]
+    BIBLE["live-coding-bible"]
+    SKILL["dr-non-vibecoding-skills"]
+    NST["nst-control-tower\nfork-a-city, flood-first"]
+    HUB["city-hub\nBangkok OS"]
+  end
+  subgraph twins["Named private twins — do not clone"]
+    FD["FloodDash\nlive flood.nonarkara.org"]
+    ATLAS["bkk-3d-atlas\nlive atlas.nonarkara.org"]
+    TOWERS["chula / yala / kmitl /\npraram9 / lopburi / sikhio / chonburi"]
+    ORIGIN["city-reporter-bot\naccount origin 2024-10-18"]
+  end
+  BP -.->|"explains"| FD
+  NST -.->|"family"| TOWERS
+  SAT --> NST
+  SAT --> HUB
+  BIBLE --> HUB
+  SKILL --> kit
+  ORIGIN -.->|"instinct"| HUB

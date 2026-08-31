@@ -1,0 +1,18 @@
+%% SLIC lineage — dates are GitHub created_at (UTC).
+%% Numbers quoted from each repo's own description.
+flowchart TD
+  subgraph archived["Archived 2026-08-31 ICT"]
+    L["2026-02-09 slic-landing-page\nV1 provocation · 103 cities"]
+    V25["2026-03-14 SLIC-Index-V2.5\nlisting: V2 · 174 cities, 53 countries"]
+    V1["2026-04-13 SLIC-Index-V1\n103-city static ranking"]
+    V2["2026-04-13 SLIC-Index-V2\nEvery city ranking is a lie"]
+    REC["2026-07-22 slic-index-v1-recovered\nfrom SLIC-Index@6a614bb · 100-city preview"]
+  end
+  LIVE["2026-03-09 SLIC-Index\nliving repo → V3 live\nnonarkara.github.io/SLIC-Index"]
+  TH["2026-04-01 smart-city-thailand-index\nSLIC methodology, national scale"]
+  L -.-> LIVE
+  LIVE --> V25
+  LIVE --> V1
+  LIVE --> V2
+  LIVE --> REC
+  LIVE --> TH

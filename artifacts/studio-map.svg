@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 720" role="img" aria-labelledby="title desc">
+  <title id="title">Nonarkara studio map  from city reporter to civic studio</title>
+  <desc id="desc">Cluster map of the public GitHub surface as of 31 August 2026, with private origin and private twins named at purpose level only.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f4efe6; }
+      .rule { stroke: #1c1916; stroke-width: 1; fill: none; }
+      .ink { fill: #1c1916; }
+      .muted { fill: #5c564c; }
+      .paper { fill: #fffdf8; }
+      .laterite { fill: #c45c26; }
+      .teal { fill: #2a7a74; }
+      .gold { fill: #c4a35a; }
+      .archive { fill: #e8e2d6; }
+      .private { fill: #1c1916; }
+      .private-text { fill: #f4efe6; }
+      .label { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, "Times New Roman", serif; }
+      .sans { font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif; }
+    </style>
+  </defs>
+  <rect class="bg" width="1100" height="720"/>
+  <rect x="36" y="36" width="1028" height="648" class="paper" stroke="#1c1916" stroke-width="1.25"/>
+
+  <text class="label ink" x="60" y="78" font-size="22">Nonarkara · 2(9"L*9H+6H</text>
+  <text class="sans muted" x="60" y="102" font-size="13">Public GitHub studio map · snapshot 2026-08-31 · 64 public before this repo · 58 private · 2 forks</text>
+  <line class="rule" x1="60" y1="118" x2="1040" y2="118"/>
+
+  <!-- Origin -->
+  <rect class="private" x="60" y="140" width="240" height="156" rx="2"/>
+  <text class="sans private-text" x="76" y="168" font-size="11" letter-spacing="1.4">ORIGIN · PRIVATE</text>
+  <text class="label private-text" x="76" y="196" font-size="16">city-reporter-bot</text>
+  <text class="sans private-text" x="76" y="218" font-size="12">Account created 2024-10-18</text>
+  <text class="sans private-text" x="76" y="238" font-size="12">to host a city reporter.</text>
+  <text class="sans" x="76" y="264" font-size="11" fill="#c4a35a">+ v2 · + LINE bot · not cloned</text>
+
+  <!-- SLIC -->
+  <rect class="paper" x="320" y="140" width="360" height="156" rx="2" stroke="#1c1916" stroke-width="1"/>
+  <text class="sans laterite" x="336" y="168" font-size="11" letter-spacing="1.4">SLIC · NO BLACK BOX</text>
+  <text class="label ink" x="336" y="196" font-size="16">SLIC-Index V3 live</text>
+  <text class="sans muted" x="336" y="218" font-size="12">nonarkara.github.io/SLIC-Index</text>
+  <text class="sans ink" x="336" y="244" font-size="12">Archives 2026-08-31: V1 · V2 · V2.5</text>
+  <text class="sans ink" x="336" y="262" font-size="12">recovered · slic-landing-page</text>
+
+  <!-- Kit -->
+  <rect class="paper" x="700" y="140" width="340" height="156" rx="2" stroke="#1c1916" stroke-width="1"/>
+  <text class="sans teal" x="716" y="168" font-size="11" letter-spacing="1.4">RECONSTRUCTION KIT</text>
+  <text class="label ink" x="716" y="196" font-size="16">Fork the method</text>
+  <text class="sans ink" x="716" y="222" font-size="12">FloodDash-Blueprint · Satellite toolkit</text>
+  <text class="sans ink" x="716" y="240" font-size="12">live-coding-bible · vibecoding-skills</text>
+  <text class="sans ink" x="716" y="258" font-size="12">nst-control-tower · city-hub</text>
+
+  <!-- Towers -->
+  <rect class="paper" x="60" y="316" width="480" height="168" rx="2" stroke="#1c1916" stroke-width="1"/>
+  <text class="sans teal" x="76" y="344" font-size="11" letter-spacing="1.4">FORK-A-CITY</text>
+  <text class="label ink" x="76" y="372" font-size="16">Control towers</text>
+  <text class="sans ink" x="76" y="396" font-size="12">Public: nst-control-tower · city-hub · kuching-ioc</text>
+  <text class="sans muted" x="76" y="418" font-size="12">Private purpose-only: chula · yala · kmitl · praram9</text>
+  <text class="sans muted" x="76" y="436" font-size="12">lopburi · sikhio · chonburi · hcmc-dashboard</text>
+  <text class="sans ink" x="76" y="458" font-size="12">Pattern: map is the page · flood-first where flood is the risk</text>
+
+  <!-- Bangkok -->
+  <rect class="paper" x="560" y="316" width="240" height="168" rx="2" stroke="#1c1916" stroke-width="1"/>
+  <text class="sans laterite" x="576" y="344" font-size="11" letter-spacing="1.4">BANGKOK</text>
+  <text class="label ink" x="576" y="372" font-size="16">BKKx / atlas</text>
+  <text class="sans ink" x="576" y="396" font-size="12">BKKx · bkk.nonarkara.org</text>
+  <text class="sans ink" x="576" y="414" font-size="12">BKKxCulture heritage</text>
+  <text class="sans muted" x="576" y="436" font-size="12">Private: bkk-3d-atlas</text>
+  <text class="sans muted" x="576" y="454" font-size="12">atlas.nonarkara.org</text>
+
+  <!-- Flood / air -->
+  <rect class="paper" x="820" y="316" width="220" height="168" rx="2" stroke="#1c1916" stroke-width="1"/>
+  <text class="sans laterite" x="836" y="344" font-size="11" letter-spacing="1.4">WATER · AIR</text>
+  <text class="label ink" x="836" y="372" font-size="16">Blueprint split</text>
+  <text class="sans ink" x="836" y="396" font-size="12">Blueprint = public</text>
+  <text class="sans muted" x="836" y="414" font-size="12">FloodDash = private</text>
+  <text class="sans ink" x="836" y="436" font-size="12">flood.nonarkara.org</text>
+  <text class="sans ink" x="836" y="454" font-size="12">airdash public</text>
+
+  <!-- Bottom row -->
+  <rect class="archive" x="60" y="504" width="320" height="140" rx="2" stroke="#1c1916" stroke-width="1"/>
+  <text class="sans muted" x="76" y="532" font-size="11" letter-spacing="1.4">ARCHIVES · 2026-08-31</text>
+  <text class="label ink" x="76" y="560" font-size="16">Landings 15</text>
+  <text class="sans ink" x="76" y="584" font-size="12">non-landing-page through -5</text>
+  <text class="sans muted" x="76" y="604" font-size="12">Live site: nonarkara.org</text>
+
+  <rect class="paper" x="400" y="504" width="320" height="140" rx="2" stroke="#1c1916" stroke-width="1"/>
+  <text class="sans gold" x="416" y="532" font-size="11" letter-spacing="1.4">PRESS · VOICE</text>
+  <text class="label ink" x="416" y="560" font-size="16">ebooks cluster · Non-Cast</text>
+  <text class="sans ink" x="416" y="584" font-size="12">ninja-innovation · slowdown · mean</text>
+  <text class="sans muted" x="416" y="604" font-size="12">Non-Cast created 2026-08-31, empty at audit</text>
+
+  <rect class="paper" x="740" y="504" width="300" height="140" rx="2" stroke="#1c1916" stroke-width="1"/>
+  <text class="sans teal" x="756" y="532" font-size="11" letter-spacing="1.4">ONE MAC</text>
+  <text class="label ink" x="756" y="560" font-size="16">Axiom · Each · council</text>
+  <text class="sans ink" x="756" y="584" font-size="12">axiom.nonarkara.org · each.nonarkara.org</text>
+  <text class="sans muted" x="756" y="604" font-size="12">Private: axiom-ops · rag · vault</text>
+</svg>

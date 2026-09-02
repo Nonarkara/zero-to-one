@@ -51,4 +51,4 @@ The first *public* repository does not appear until **2026-02-09** (`slic-landin
 
 Account: [`github.com/Nonarkara`](https://github.com/Nonarkara) · site: [nonarkara.org](https://nonarkara.org)
 
-Next: [PRINCIPLES.md](PRINCIPLES.md) for reconstruction, [TIMELINE.md](TIMELINE.md) for dates, [REPO-MAP.md](REPO-MAP.md) for the rest of the house.
+Next: [START-HERE.md](START-HERE.md) for the learner path, [PRINCIPLES.md](PRINCIPLES.md) for reconstruction, [TIMELINE.md](TIMELINE.md) for dates, [REPO-MAP.md](REPO-MAP.md) for the rest of the house.

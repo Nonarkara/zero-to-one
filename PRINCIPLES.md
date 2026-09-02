@@ -12,6 +12,8 @@ Not a vendor catalogue. A **civic studio** grown from a city-reporter bot (2024)
 
 If you only clone private repos you do not have, you will learn nothing. If you read the five public blueprints, fork one tower, and keep the ranking honest, you can rebuild the method.
 
+A shorter teaching door — who this is for, a six-repo path, ethical fork — is **[START-HERE.md](START-HERE.md)**.
+
 ---
 
 ## 1 · Public blueprints first

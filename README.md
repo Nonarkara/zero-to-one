@@ -4,6 +4,11 @@
 
 <p align="center"><em>2024 city-reporter → 2026 civic constellation.<br/>The HUD is in the picture. This page is the invitation.</em></p>
 
+<p align="center">
+  <strong>Learners start here → <a href="START-HERE.md">START-HERE.md</a></strong><br/>
+  Who this is for · studio map · six-repo path · ethical fork
+</p>
+
 # Zero to One · จากศูนย์สู่หนึ่ง
 
 A living history of the **Nonarkara** studio — from a private city-reporter bot to an open civic GitHub.
@@ -17,6 +22,7 @@ This is not a portfolio dump. It is a reconstructable door: method, architecture
 
 ## Contents · สารบัญ
 
+0. **[START-HERE.md](START-HERE.md)** — learner front door (visitor / builder / city practitioner)
 1. [What this is](#what-this-is--นี่คืออะไร)
 2. [Philosophy](#philosophy--ปรัชญา)
 3. [Ethical use](#ethical-use--การใช้ที่ซื่อสัตย์)
@@ -24,7 +30,7 @@ This is not a portfolio dump. It is a reconstructable door: method, architecture
 5. [Reconstructing the timeline](#reconstructing-the-timeline--ประกอบเส้นเวลา)
 6. [License](#license)
 
-Companion pages (the rest of the house): [ORIGIN.md](ORIGIN.md) · [PRINCIPLES.md](PRINCIPLES.md) · [TIMELINE.md](TIMELINE.md) · [REPO-MAP.md](REPO-MAP.md) · [artifacts/](artifacts/)
+Companion pages (the rest of the house): [START-HERE.md](START-HERE.md) · [ORIGIN.md](ORIGIN.md) · [PRINCIPLES.md](PRINCIPLES.md) · [TIMELINE.md](TIMELINE.md) · [REPO-MAP.md](REPO-MAP.md) · [artifacts/](artifacts/)
 
 ---
 
@@ -40,6 +46,7 @@ If you want the running flood system, look at [flood.nonarkara.org](https://floo
 
 | If you came for… | Start here |
 |---|---|
+| A teaching path (visitor / builder / practitioner) | **[START-HERE.md](START-HERE.md)** |
 | The seed (purpose, not source) | [ORIGIN.md](ORIGIN.md) |
 | How to rebuild the method | [PRINCIPLES.md](PRINCIPLES.md) |
 | Dates you can check | [TIMELINE.md](TIMELINE.md) |
@@ -109,6 +116,7 @@ There are no fake screenshots. The hero above is an **illustration** — includi
 ```
 zero-to-one/
   README.md                 ← you are here (invitation)
+  START-HERE.md             ← learner front door: path, map, ethical fork
   docs/hero-banner.png      ← manga hero; HUD is in the drawing
   ORIGIN.md                 ← city-reporter purpose, not source
   PRINCIPLES.md             ← reconstruction kit
@@ -126,7 +134,7 @@ zero-to-one/
 
 **A stranger's evening**
 
-1. Stay on this README until you know which live homepage matches your curiosity (flood, ranking, Bangkok, ASEAN, satellite).
+1. If you are here to *learn*, open **[START-HERE.md](START-HERE.md)** and walk the six-repo path. If you are here to *look*, stay on this README until you know which live homepage matches your curiosity (flood, ranking, Bangkok, ASEAN, satellite).
 2. Read [PRINCIPLES.md](PRINCIPLES.md) before cloning anything large.
 3. Dates → [TIMELINE.md](TIMELINE.md). Shelf of links → [REPO-MAP.md](REPO-MAP.md). First purpose → [ORIGIN.md](ORIGIN.md), and stop where the source is private.
 4. Fork a *blueprint* or a *toolkit*, not an archive, unless you are studying how a ranking learned to disagree with itself.

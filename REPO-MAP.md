@@ -125,7 +125,7 @@ Do not ask this history for the private implementation. The blueprint is the gif
 | [`dr-non-agentic-ai-council`](https://github.com/Nonarkara/dr-non-agentic-ai-council) | 2026-05-09 | https://github.com/Nonarkara/dr-non-agentic-ai-council | 9-bot council on a Mac |
 | this repo [`zero-to-one`](https://github.com/Nonarkara/zero-to-one) | 2026-08-31 | https://github.com/Nonarkara/zero-to-one | Reconstructable history |
 
-[PRINCIPLES.md](PRINCIPLES.md) is the reading order.
+[PRINCIPLES.md](PRINCIPLES.md) is the reconstruction order. [START-HERE.md](START-HERE.md) is the shorter teaching door.
 
 ---
 

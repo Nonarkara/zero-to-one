@@ -2,6 +2,8 @@
 
 Lightweight files generated **in this repository**. Nothing here is a copy of another project's git history, source tree, or binary assets.
 
+Learners should start at [`START-HERE.md`](../START-HERE.md) — who the history is for, a teaching mermaid of the 2026 civic estate, an ordered six-repo path, and how to fork ethically.
+
 The README hero lives at [`docs/hero-banner.png`](../docs/hero-banner.png). It is an **illustration** — the golden HUD, polaroids, and sticky notes are drawn in the picture, not generated as a live overlay.
 
 | File | What it is |

@@ -158,10 +158,10 @@ Dates below are GitHub `created_at` (UTC) from the public API on **2026-08-31**,
 |---|---|
 | **2024-10-18** | Account created (`14:36:57Z`) to host a city-reporter bot. No public repo in 2024 or 2025 at snapshot. |
 | **2026-02-09** | First public repository: [`slic-landing-page`](https://github.com/Nonarkara/slic-landing-page) (later archived). SLIC V1 as a LinkedIn provocation — 103 cities, as that description states. |
-| **Feb–Mar 2026** | Identity landing experiments; digital-economy and ASEAN monitors; live **[`SLIC-Index`](https://github.com/Nonarkara/SLIC-Index) V3** on **2026-03-09**; satellite toolkit; fork-a-city pattern visible when Phuket is retargeted from a geopolitics dashboard. |
-| **Apr–Jun 2026** | Live-coding bible; SLIC V1/V2 *archive repos* created (their `created_at` is later than V3 — do not sort the lineage by repo age alone); personal site; [`city-hub`](https://github.com/Nonarkara/city-hub); public [`nst-control-tower`](https://github.com/Nonarkara/nst-control-tower). |
-| **2026-07** | [`FloodDash-Blueprint`](https://github.com/Nonarkara/FloodDash-Blueprint) (gift). FloodDash the running system stays private. [`airdash`](https://github.com/Nonarkara/airdash). |
-| **2026-08** | [`BKKx`](https://github.com/Nonarkara/BKKx), [`BKKxCulture`](https://github.com/Nonarkara/BKKxCulture), vibecoding skills. |
+| **February–March 2026** | Identity landing experiments; digital-economy and ASEAN monitors; live **[`SLIC-Index`](https://github.com/Nonarkara/SLIC-Index) V3** on **2026-03-09**; satellite toolkit; fork-a-city pattern visible when Phuket is retargeted from a geopolitics dashboard. |
+| **April–June 2026** | Live-coding bible; SLIC V1/V2 *archive repos* created (their `created_at` is later than V3 — do not sort the lineage by repo age alone); personal site; [`city-hub`](https://github.com/Nonarkara/city-hub); public [`nst-control-tower`](https://github.com/Nonarkara/nst-control-tower). |
+| **July 2026** | [`FloodDash-Blueprint`](https://github.com/Nonarkara/FloodDash-Blueprint) (gift). FloodDash the running system stays private. [`airdash`](https://github.com/Nonarkara/airdash). |
+| **August 2026** | [`BKKx`](https://github.com/Nonarkara/BKKx), [`BKKxCulture`](https://github.com/Nonarkara/BKKxCulture), vibecoding skills. |
 | **2026-08-31** | [`Non-Cast`](https://github.com/Nonarkara/Non-Cast) created. Ten public drafts archived (evening ICT). This history repo opened. |
 
 V3's GitHub description at the time of this history (quoted, not re-measured):

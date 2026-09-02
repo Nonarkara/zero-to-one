@@ -2,6 +2,8 @@
 
 Lightweight files generated **in this repository**. Nothing here is a copy of another project's git history, source tree, or binary assets.
 
+The README hero lives at [`docs/hero-banner.png`](../docs/hero-banner.png). It is an **illustration** — the golden HUD, polaroids, and sticky notes are drawn in the picture, not generated as a live overlay.
+
 | File | What it is |
 |---|---|
 | [`public-repos.csv`](public-repos.csv) | Every **public** repo visible on `users/Nonarkara/repos` on **2026-08-31**, with GitHub `created_at`, `description`, `html_url`, archive/fork flags, language, homepage field, and `stargazers_count` as GitHub returned them. |
